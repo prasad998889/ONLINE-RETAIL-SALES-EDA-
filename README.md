@@ -126,6 +126,9 @@ It explores **sales trends, customer purchasing behavior, product performance, a
 ---
 
 *Aspiring Data Analyst | Python | Power BI | Excel | SQL*  
+📧 mudhirajp328@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/prasad-mudhiraj-979874347/)  
+🔗 [GitHub](https://github.com/prasad998889)
 
 
 ---
