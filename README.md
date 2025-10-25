@@ -108,7 +108,9 @@ It explores **sales trends, customer purchasing behavior, product performance, a
 - **Monthly Sales Trend** → Line plot  
 - **Country-Wise Revenue** → Horizontal bar chart  
 - **Quantity vs Unit Price** → Scatter plot  
-- **Customer Purchase Distribution** → Histogram  
+- **Customer Purchase Distribution** → Histogram
+  <img width="870" height="479" alt="QUANTITY VS UNITPRICE" src="https://github.com/user-attachments/assets/fc8dde4e-6e31-41d7-acce-af266d807cd4" />
+ 
 
 📸 Example Visuals:  
 <img width="1400" height="500" alt="monthly_revenue_trend" src="https://github.com/user-attachments/assets/cf445928-2b31-4cee-93e3-4707c2380b27" />  
