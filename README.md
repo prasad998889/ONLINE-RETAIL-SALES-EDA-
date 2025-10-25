@@ -112,10 +112,7 @@ It explores **sales trends, customer purchasing behavior, product performance, a
   <img width="870" height="479" alt="QUANTITY VS UNITPRICE" src="https://github.com/user-attachments/assets/fc8dde4e-6e31-41d7-acce-af266d807cd4" />
  
 
-📸 Example Visuals:  
-<img width="1400" height="500" alt="monthly_revenue_trend" src="https://github.com/user-attachments/assets/cf445928-2b31-4cee-93e3-4707c2380b27" />  
-<img width="1302" height="556" alt="country_revenue" src="https://github.com/user-attachments/assets/ed661811-1792-4c0e-959f-2ba1e5e45585" />  
-<img width="1152" height="787" alt="top_products" src="https://github.com/user-attachments/assets/0da42d52-e137-453e-b402-6a0559e12c35" />  
+
 
 ---
 
