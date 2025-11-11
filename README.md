@@ -110,6 +110,10 @@ It explores **sales trends, customer purchasing behavior, product performance, a
 - **Quantity vs Unit Price** → Scatter plot  
 - **Customer Purchase Distribution** → Histogram
   <img width="870" height="479" alt="QUANTITY VS UNITPRICE" src="https://github.com/user-attachments/assets/fc8dde4e-6e31-41d7-acce-af266d807cd4" />
+  <img width="1093" height="658" alt="REVENUE CONTRIBUTION OF TOP 5 PRODUCTS" src="https://github.com/user-attachments/assets/057c78f5-43b4-4556-93ec-9c3ca8fb22b7" />
+  <img width="889" height="479" alt="NUMBER OF TRANSACTIONS" src="https://github.com/user-attachments/assets/02a8ed98-85b4-4a09-ba21-04ed7c7f36a1" />
+
+
  
 
 
